@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <time.h>
 #include "libDisk.h" // Include the disk emulator library
+#include "TinyFS_errno.h"
 
 #define BLOCKSIZE 256
 #define DEFAULT_DISK_SIZE 10240
@@ -17,7 +19,7 @@
 #define _BLOCK_TYPE 0
 #define _MAGIC_NUMBER 1 
 //bytes 2 and 3 empty
-#define _ROOT_INODE_BLOCK 4 //int, where the inode blocks start (inodes could be mixed in w data blocks)
+// #define _ROOT_INODE_BLOCK 4 //int, where the inode blocks start (inodes could be mixed in w data blocks)
 #define _FREE_BLOCK_INDEX 8 //int, where the free blocks start
 #define _NUM_FREE_BLOCKS  12 //int, total free blocks
 
@@ -27,12 +29,17 @@
 #define _NAME 4 //char[9], file name
 #define _SIZE 13 //int, file size
 #define _DATA_BLOCK 17 //int, block number of the first data block
-#define _INODE_SIZE 17 // 9 + 4 + 4
+// #define _INODE_SIZE 17 // 9 + 4 + 4
+
+#define _TIME_CREATE_INDEX 25
+#define _TIME_MODIFY_INDEX 45
+#define _TIME_ACCESSED_INDEX 65
+
 
 
 typedef struct {
     int inodeBlock; // block number of the inode block containing this file's inode
-    int inodeIndex; // index of the inode within its block
+    //int fd; // index of the inode within its block
     int filePointer; // current position of the file pointer
 } FileTableEntry;
 
@@ -54,6 +61,9 @@ typedef struct {
     char name[9]; // file name (up to 8 char)
     int size; // file size
     int dataBlock; // block number of the first data block
+    time_t time_created;        
+    time_t time_last_accessed;
+    time_t time_last_modified;
 } Inode;
 
 typedef int fileDescriptor;
@@ -68,5 +78,3 @@ int tfs_deleteFile(fileDescriptor FD);
 int tfs_readByte(fileDescriptor FD, char *buffer);
 int tfs_seek(fileDescriptor FD, int offset);
 
-// TODO Remove these
-int tfs_get_mounted_disk( );

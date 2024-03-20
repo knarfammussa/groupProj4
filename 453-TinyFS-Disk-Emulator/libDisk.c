@@ -5,6 +5,7 @@
 #include <sys/stat.h>
 #include "libDisk.h"
 
+
 #define BLOCKSIZE 256
 
 int openDisk(char *filename, int nBytes) {
@@ -87,7 +88,7 @@ int writeBlock(int disk, int bNum, void *block) {
     } else if (bytesWritten < BLOCKSIZE) {
         return -1; // failure (wrote fewer bytes than expected) so return neg
     }
-    printf("exiting writeBlock() with disk = %d\n", disk);
+    //printf("exiting writeBlock() with disk = %d\n", disk);
     //printf("exiting writeblock() with success\n");
     return 0; // success
 }

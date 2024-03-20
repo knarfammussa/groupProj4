@@ -2,7 +2,7 @@
 #include "tinyFS.h"
 
 int main() {
-    char* filename = "tinyFSDisk"; // file name for the disk
+    char* filename = "tinyFSDisk-Test.txt"; // file name for the disk
     int diskSize = DEFAULT_DISK_SIZE; // default disk size
     fileDescriptor fd;
     int result;
@@ -94,15 +94,15 @@ int main() {
     }
 
     // write more data to first file
-    // printf("\n\nWriting more data to first file...\n");
-    // char moredata[] = "I love sleeping!";
-    // result = tfs_writeFile(1, moredata, sizeof(moredata));
-    // if (result == 0) {
-    //     printf("Data written to the file successfully.\n");
-    // } else {
-    //     printf("Failed to write data to the file.\n");
-    //     return 1;
-    // }
+    printf("\n\nWriting more data to first file...\n");
+    char moredata[] = "I love sleeping!";
+    result = tfs_writeFile(1, moredata, sizeof(moredata));
+    if (result == 0) {
+        printf("Data written to the file successfully.\n");
+    } else {
+        printf("Failed to write data to the file.\n");
+        return 1;
+    }
 
     // // close the file
     // printf("Closing the file...\n");
