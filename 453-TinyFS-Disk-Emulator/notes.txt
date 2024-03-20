@@ -1,0 +1,4 @@
+superblock
+remaining free blocks
+    byte 0 = 4 // signify free block
+    byte 1 = 0x44

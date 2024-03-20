@@ -1,0 +1,774 @@
+Creating TinyFS file system...
+exiting writeBlock() with disk = 3
+superblock info: 1 68 0 1 38
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+TinyFS file system created successfully.
+
+
+
+Mounting TinyFS file system...
+in mount, opened disk 3
+tfs_mount: mounted_disk = 3
+File system mounted successfully.
+TinyFS file system mounted successfully.
+
+
+Opening a file...
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+file: test.txt, freeblockindex: 1
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+fileTable inodeBlock: 1
+fileTable inodeIndex: -1
+fileTable filePointer: 0
+AFTER RETURNING
+File opened successfully with file descriptor: 0
+
+
+Writing data to the file...
+entered tfs writefile with fd 0
+will write Hello, TinyFS!
+name is 
+we want to copy test.txt	into source 
+calling delete
+DELETE_FILE: deleting this many blocks 1
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+buffer after deletion: Hello, TinyFS!
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 2
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: test.txt
+] END ROOT INODE INFO
+fileTable inodeBlock: 1
+fileTable inodeIndex: -1
+fileTable filePointer: 0
+fd after opening 1
+blocks_needed: 1
+current_buffer: Hello, TinyFS!
+destination: 
+source: Hello, TinyFS!
+block # 0, text H
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+Data written to the file successfully.
+
+
+Opening another file...
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 2
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: test.txt
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+file: t2.txt, freeblockindex: 2
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+fileTable inodeBlock: 2
+fileTable inodeIndex: -1
+fileTable filePointer: 0
+AFTER RETURNING
+File opened successfully with file descriptor: 2
+
+
+Writing another file...
+entered tfs writefile with fd 2
+will write I love Pepper!
+name is 
+we want to copy t2.txt	into source 
+calling delete
+DELETE_FILE: deleting this many blocks 1
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+buffer after deletion: I love Pepper!
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 2
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: test.txt
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 2
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: t2.txt
+] END ROOT INODE INFO
+fileTable inodeBlock: 2
+fileTable inodeIndex: -1
+fileTable filePointer: 0
+fd after opening 3
+blocks_needed: 1
+current_buffer: I love Pepper!
+destination: 
+source: I love Pepper!
+block # 0, text I
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+Data written to the file successfully.
+
+
+Opening a third file...
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 2
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: test.txt
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 2
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: t2.txt
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 4
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: 
+] END ROOT INODE INFO
+file: t3.txt, freeblockindex: 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+fileTable inodeBlock: 3
+fileTable inodeIndex: -1
+fileTable filePointer: 0
+AFTER RETURNING
+File opened successfully with file descriptor: 4
+
+
+Writing another file...
+entered tfs writefile with fd 4
+will write I love coding!
+name is 
+we want to copy t3.txt	into source 
+calling delete
+DELETE_FILE: deleting this many blocks 1
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+buffer after deletion: I love coding!
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 2
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: test.txt
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 2
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: t2.txt
+] END ROOT INODE INFO
+] tfs_openFile SUPERBLOCK INODE INFO:
+    ] rootInode[_BLOCK_TYPE]: 2
+    ] rootInode[_MAGIC_NUMBER]: 44
+    ] rootInode[_NAME]: t3.txt
+] END ROOT INODE INFO
+fileTable inodeBlock: 3
+fileTable inodeIndex: -1
+fileTable filePointer: 0
+fd after opening 5
+blocks_needed: 1
+current_buffer: I love coding!
+destination: 
+source: I love coding!
+block # 0, text I
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+exiting writeBlock() with disk = 3
+Data written to the file successfully.
